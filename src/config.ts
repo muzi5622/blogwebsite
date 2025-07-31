@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://0xmuzamil.tech/", // replace this with your deployed domain
+  website: "https://0xmuzamil.dev/", // replace this with your deployed domain
   author: "0xMuzamil",
-  profile: "https://0xmuzamil.tech/",
+  profile: "https://0xmuzamil.dev/",
   desc: "A tech blog by Muzamil sharing writeups and insights on cybersecurity, hacking, Linux, DevOps, and automation.",
   title: "0xMuzamil",
   ogImage: "astropaper-og.jpg",
